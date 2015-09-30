@@ -14,7 +14,7 @@ for XOOPS 2.5.7
 
 This module is to help you build in your site an editorial column section, where you can manage the columns and articles published in an ordered fashion. 
 
-![image001.png](assets/image001.png)
+![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the SoapBox Module (Admin side)*
 
 # Table of Content
