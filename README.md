@@ -1,7 +1,7 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module SoapBox
+# Module Soapbox
 for XOOPS 2.5.7
       
 ![logoModule.png](assets/logoModule.png)
