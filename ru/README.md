@@ -1,5 +1,5 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Модуль Soapbox
 #### для XOOPS 2.5.8
@@ -8,17 +8,17 @@
 
 Учебное пособие по версии 1.0
       
-![logoModule.png](assets/logoModule.png)
+![](assets/logoModule.png)
             
 ## Руководство пользователя
 
-© 2017 XOOPS Project ([www.xoops.org](https://xoops.org))  
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))  
 
 ## Назначение модуля 
 
 Модуль предназначен для публикации статей упорядоченных по категориям.
 
-![image001.png](assets/image001.jpg)
+![](assets/image001.jpg)
 *Фигура 1: Общий вид модуля Soapbox (Admin сторона)*
 
 ## Загрузить модуль ![](https://xoops.org/images/forkit.png) 
